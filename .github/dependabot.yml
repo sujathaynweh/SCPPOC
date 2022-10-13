@@ -11,4 +11,4 @@ updates:
        interval: "daily"
       # Check for npm updates on Sundays
       day: "thursday"
-      time: "14:22"
+      time: "14:24"
